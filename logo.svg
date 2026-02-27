@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #00accf;
+        font-size: 34.77px;
+      }
+
+      .st0, .st1 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+        font-weight: 700;
+        isolation: isolate;
+      }
+
+      .st2 {
+        opacity: .6;
+      }
+
+      .st3 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .st3, .st4, .st5 {
+        stroke-width: 2px;
+      }
+
+      .st3, .st5 {
+        stroke: #81d4fa;
+      }
+
+      .st6 {
+        stroke: #ff5252;
+      }
+
+      .st6, .st7, .st8, .st9, .st10, .st5, .st11 {
+        fill: none;
+      }
+
+      .st6, .st8, .st9, .st10, .st11 {
+        stroke-linecap: round;
+      }
+
+      .st6, .st9, .st10 {
+        stroke-width: 4px;
+      }
+
+      .st12 {
+        filter: url(#shadow);
+      }
+
+      .st13 {
+        fill: #2979ff;
+      }
+
+      .st14 {
+        fill: #ff5252;
+      }
+
+      .st8 {
+        stroke: #ff9800;
+      }
+
+      .st8, .st11 {
+        stroke-width: 3px;
+      }
+
+      .st9 {
+        stroke: #00e676;
+      }
+
+      .st15 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st4 {
+        fill: url(#_未命名的渐变);
+        stroke: #b3e5fc;
+      }
+
+      .st1 {
+        fill: #37474f;
+        font-size: 52px;
+        letter-spacing: .02em;
+      }
+
+      .st10 {
+        stroke: #2979ff;
+      }
+
+      .st11 {
+        stroke: #546e7a;
+      }
+
+      .st16 {
+        fill: #00e676;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="-701.57" y1="796.42" x2="-700.57" y2="795.42" gradientTransform="translate(345183 391851) scale(492 -492)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e1f5fe"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="-700.75" y1="795.87" x2="-700.75" y2="794.44" gradientTransform="translate(280553 199023) scale(400 -250)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fc3f7" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#0288d1" stop-opacity=".1"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="2" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA slope="0.3" type="linear"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" cx="-692.46" cy="792.46" fx="-692.46" fy="792.46" r=".5" gradientTransform="translate(48872 55572) scale(70 -70)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff176"/>
+      <stop offset="1" stop-color="#ff9800"/>
+    </radialGradient>
+  </defs>
+  <rect class="st4" x="10" y="10" width="492" height="492" rx="80" ry="80"/>
+  <g class="st2">
+    <rect class="st3" x="38.83" y="56" width="431.34" height="356.84" rx="10" ry="10"/>
+    <line class="st5" x1="146.67" y1="56" x2="146.67" y2="412.84"/>
+    <line class="st5" x1="254.5" y1="56" x2="254.5" y2="412.84"/>
+    <line class="st5" x1="362.34" y1="56" x2="362.34" y2="412.84"/>
+    <line class="st5" x1="38.83" y1="174.47" x2="470.17" y2="174.47"/>
+    <line class="st5" x1="38.83" y1="292.94" x2="470.17" y2="292.94"/>
+  </g>
+  <g class="st12">
+    <circle class="st15" cx="400" cy="100" r="35"/>
+  </g>
+  <g>
+    <line class="st8" x1="400" y1="55" x2="400" y2="45"/>
+    <line class="st8" x1="400" y1="145" x2="400" y2="155"/>
+    <line class="st8" x1="355" y1="100" x2="345" y2="100"/>
+    <line class="st8" x1="445" y1="100" x2="455" y2="100"/>
+    <line class="st8" x1="368" y1="68" x2="361" y2="61"/>
+    <line class="st8" x1="432" y1="132" x2="439" y2="139"/>
+    <line class="st8" x1="368" y1="132" x2="361" y2="139"/>
+    <line class="st8" x1="432" y1="68" x2="439" y2="61"/>
+  </g>
+  <line class="st11" x1="59.68" y1="145" x2="59.68" y2="337.07"/>
+  <line class="st11" x1="59.68" y1="337.07" x2="452.01" y2="337.07"/>
+  <path class="st6" d="M59.68,309.63c65.39-13.72,108.98,6.86,174.37-6.86,65.39-13.72,130.78-6.86,217.96-20.58"/>
+  <path class="st9" d="M59.68,254.76c65.39,6.86,108.98-6.86,174.37,0,65.39,6.86,130.78-6.86,217.96-2.74"/>
+  <path class="st10" d="M59.68,199.88c65.39-13.72,108.98,6.86,174.37-6.86,65.39-13.72,130.78,0,217.96-6.86"/>
+  <ellipse class="st14" cx="234.05" cy="302.77" rx="4.36" ry="5.49"/>
+  <ellipse class="st14" cx="364.83" cy="295.91" rx="4.36" ry="5.49"/>
+  <ellipse class="st16" cx="234.05" cy="254.76" rx="4.36" ry="5.49"/>
+  <ellipse class="st16" cx="364.83" cy="247.9" rx="4.36" ry="5.49"/>
+  <ellipse class="st13" cx="234.05" cy="193.02" rx="4.36" ry="5.49"/>
+  <ellipse class="st13" cx="364.83" cy="193.02" rx="4.36" ry="5.49"/>
+  <path class="st7" d="M430,350h0"/>
+  <text class="st1" transform="translate(80.21 475.64)"><tspan x="0" y="0">Ohm Stab</tspan></text>
+  <text class="st0" transform="translate(350.56 474.96) scale(.96 1)"><tspan x="0" y="0">V1.2</tspan></text>
+</svg>
