@@ -59,3 +59,19 @@ Experimental Group B,blue,"8, 10-12"
 2. **Switch Views**: Click on different parameter tabs (FF, Voc, Isc, Pmax, Cumulative Energy Yield) above the chart. The chart will update in real-time, and the axis ranges will adjust automatically.
 3. **Configure Grouping**: Click the "Import Grouping Configuration" button at the bottom of the left sidebar, upload the prepared `groups.csv` file. The chart lines will be automatically recolored and grouped according to the configuration, and the legend will be updated accordingly.
 4. **Export Data**: Click the "Export CSV" button in the upper right corner to save the processed data from the current view (including calculated cumulative energy yield, etc.) to your local computer.
+
+## 5. Changelog
+
+### V1.1
+
+- **Multi-channel Aligned Data Export**: Added the "Data Analysis Export" module in the sidebar. Supports exporting the currently selected parameters (e.g., FF, Voc, Isc, Pmax) as a standard CSV file.
+- **Automatic Time Alignment**: The system automatically extracts and aligns the time union of all loaded channels.
+- **Wide Format Export**: The exported CSV has the time axis as the first column, followed by each channel as a separate column (e.g., C001, C002...). Missing values are left blank automatically.
+
+### V1.3
+
+- Fixed the issue of slow software response and added the integral cumulative energy yield function.
+
+## 6. Maintainer Information
+
+Contact: xiaohei.wu@whu.edu.cn
